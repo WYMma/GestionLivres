@@ -1,14 +1,14 @@
 # Rapport de Projet - Interface de Description de Livres React
 
-Ce projet est une application React qui fournit une interface conviviale pour la description de livres, ainsi qu'une barre de navigation contenant les sections "Accueil", "Livres" et "Contact". Il utilise Node.js et CSS pour sa mise en œuvre, avec les fonctionnalités nécessaires pour la manipulation de livres et la création d'interfaces pour chaque section.
+Ce projet est une application React qui fournit une interface conviviale pour la description de livres, ainsi qu'une barre de navigation contenant les sections "Home", "Livres" et "Contact". Il utilise Node.js et CSS pour sa mise en œuvre, avec les fonctionnalités nécessaires pour la manipulation de livres et la création d'interfaces pour chaque section.
 
 ## Pour commencer
 
 Pour exécuter le projet localement, suivez les étapes ci-dessous :
 
-1. Clonez le dépôt : `git clone [repository-url]`
-2. Accédez au répertoire du projet : `cd [project-directory]`
-3. Installez les dépendances : `npm install`
+1. Clonez le dépôt : `git clone https://github.com/WYMma/GestionLivres.git`
+2. Accédez au répertoire du projet : `cd GestionLivres`
+3. Executer le projet : `npm start`
 
 ## Scripts disponibles
 
@@ -38,4 +38,10 @@ La bibliothèque react-router-dom est utilisée pour une gestion efficace des ro
 
 ## Conclusion
 
-En conclusion, ce projet React crée
+En conclusion, ce projet React crée avec succès une interface conviviale pour la description de livres en utilisant Node.js et CSS. Deux composants JSX, à savoir le composant de description de livres et le composant de la barre de navigation, ont été développés. Le composant de description de livres permet une manipulation facile des données des livres, tandis que le composant de la barre de navigation permet une navigation fluide entre les sections. Le projet utilise de manière efficace la bibliothèque react-router-dom pour une gestion efficace des routes.
+
+## Auteur
+
+* **Yassin Manita** - *Étudiant en Informatique* - [Yassin Manita](https://github.com/WYMma)
+
+Consultez mon [LinkedIn](https://tn.linkedin.com/in/yassin-manita12) pour plus d'informations.
